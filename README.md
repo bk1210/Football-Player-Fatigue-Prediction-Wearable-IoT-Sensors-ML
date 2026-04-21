@@ -130,7 +130,9 @@ Open `iot_fatigue.ipynb` and run all cells — the notebook handles:
 9. 90-minute football match simulation + coach dashboard
 
 ---
+## 🔄 Pipeline
 
+![Pipeline](pipeline.png)
 ## 🏗️ Architecture
 
 ### End-to-End Pipeline
